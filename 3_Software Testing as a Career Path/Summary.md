@@ -20,14 +20,14 @@ Apa yang Software Tester Kerjakan?
 - Menghadiri Meeting bersama Stakeholder yang lain 
 
 Skill yang dibutuhkan
-+ Non Technical Skill
+Non Technical Skill
 - Analytical Skill
 - Communication Skill
 - Time Management & Organization Skill
 - Great Atitude
 - Passion
 
-+ Technical Skill
+Technical Skill
 - Basic Knowledge Of Unix & Linux Command
 - Knowledge and hands-on experience of a Test Management Tool
 - Knowledge and hands-on experience of a Tracking Managemen Tool
