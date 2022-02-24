@@ -1,4 +1,4 @@
-# (3) Software Testing as a Career Path
+# (4) Software Testing Fundamental
 
 ## Resume
 Dalam materi ini, mempelajari:
