@@ -21,6 +21,13 @@
     Test Case 6 : Register with valid phone number but already used
     Test Case 7 : Register with invalid password (the password length is >32 or <8)
 
-4. Test Scenario : 
+4. Test Scenario : Buy Product
+    Test Case 1 : pick a product
+    Test Case 2 : enter valid handphone number
+    Test Case 3 : enter invalid phone number
 
+5. Test Scenario : Choose Payment Method
+    Test Case 1 : Check if each of the payment options is selectable.
+    Test Case 2 : Check if the user gets a confirmation message or mail if the payment is successful.
+    Test Case 3 : Choose a "must login payment method" with login as a guest.
 
