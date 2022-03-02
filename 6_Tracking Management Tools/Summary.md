@@ -19,6 +19,8 @@ Jira adalah alat bantu yang bertujuan untuk pelacakan bug, pelacak issue dan man
 
 Issues pada JIRA akan melacak masalah yang mendasari proyek ataupun bug.
 
-7 Point dalam Pembuatan Issue
-Project, Issues Type, Reporter, Description, Priority, Assignee, dan Sprint
+7 Point dalam Pembuatan Issue : 
+- Project, Issues Type, Reporter, Description, Priority, Assignee, dan Sprint
 
+Tipe Issue : 
+- Story, Task, Bug, dan Epic
