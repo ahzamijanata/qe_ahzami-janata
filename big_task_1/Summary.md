@@ -13,26 +13,27 @@
 Jira adalah alat bantu yang bertujuan untuk pelacakan bug, pelacak issue dan manajemen proyek
 
 1. Membuat Project dan Issue
-![1](.\Screenshoot\jira (1).png)
+![1](https://github.com/ahzamijanata/qe_ahzami-janata/blob/master/big_task_1/Screenshoot/jira%20(1).png?raw=true)
+
 
 2. Memilih lokasi project dan issue type(disini kita membuat issue dengan tipe story), menambahkan summary serta memilih reporter(disini reporternya secara otomatis sesuai dengan orang yang membuat issue yaitu kita sendiri) 
-![2](.\Screenshoot\jira (2).png)
-![3](.\Screenshoot\jira (3).png)
-![4](.\Screenshoot\jira (4).png)
-![5](.\Screenshoot\jira (5).png)
+![2](https://github.com/ahzamijanata/qe_ahzami-janata/blob/master/big_task_1/Screenshoot/jira%20(2).png?raw=true)
+![3](https://github.com/ahzamijanata/qe_ahzami-janata/blob/master/big_task_1/Screenshoot/jira%20(3).png?raw=true)
+![4](https://github.com/ahzamijanata/qe_ahzami-janata/blob/master/big_task_1/Screenshoot/jira%20(4).png?raw=true)
+![5](https://github.com/ahzamijanata/qe_ahzami-janata/blob/master/big_task_1/Screenshoot/jira%20(5).png?raw=true)
 
 3. Membuat Issue dengan tipe epic untuk mengelompokkan issue-issue yang ber tipe story
-![6](.\Screenshoot\jira (6).png)
+![6](https://github.com/ahzamijanata/qe_ahzami-janata/blob/master/big_task_1/Screenshoot/jira%20(6).png?raw=true)
 
 4. Tampilan Backlog dan Board
-![7](.\Screenshoot\jira (7).png)
-![8](.\Screenshoot\jira (8).png)
+![7](https://github.com/ahzamijanata/qe_ahzami-janata/blob/master/big_task_1/Screenshoot/jira%20(7).png?raw=true)
+![8](https://github.com/ahzamijanata/qe_ahzami-janata/blob/master/big_task_1/Screenshoot/jira%20(8).png?raw=true)
 
 5. Test case Pada Project Portal Berita dan Project Toko Online
-![9](.\Screenshoot\jira (9).png)
-![10](.\Screenshoot\jira (10).png)
-![11](.\Screenshoot\jira (11).png)
-![12](.\Screenshoot\jira (12).png)
-![13](.\Screenshoot\jira (13).png)
-![14](.\Screenshoot\jira (14).png)
+![9](https://github.com/ahzamijanata/qe_ahzami-janata/blob/master/big_task_1/Screenshoot/jira%20(9).png?raw=true)
+![10](https://github.com/ahzamijanata/qe_ahzami-janata/blob/master/big_task_1/Screenshoot/jira%20(10).png?raw=true)
+![11](https://github.com/ahzamijanata/qe_ahzami-janata/blob/master/big_task_1/Screenshoot/jira%20(11).png?raw=true)
+![12](https://github.com/ahzamijanata/qe_ahzami-janata/blob/master/big_task_1/Screenshoot/jira%20(12).png?raw=true)
+![13](https://github.com/ahzamijanata/qe_ahzami-janata/blob/master/big_task_1/Screenshoot/jira%20(13).png?raw=true)
+![14](https://github.com/ahzamijanata/qe_ahzami-janata/blob/master/big_task_1/Screenshoot/jira%20(14).png?raw=true)
 
