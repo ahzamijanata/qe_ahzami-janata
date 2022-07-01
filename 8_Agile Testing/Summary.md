@@ -29,4 +29,4 @@ Tujuannya untuk menyediakan alur terstruktur dalam membantu organisasi menghasil
 - PractiTest
 - TcLab
 
-
+https://docs.google.com/document/d/1yUvoLcpZAaAjqebYPe17lT2L5CbSuS0x/edit?usp=sharing&ouid=107567856541640053385&rtpof=true&sd=true
