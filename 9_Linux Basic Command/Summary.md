@@ -18,3 +18,4 @@ Bahasa pemrograman yang dikompilasi berdasarkan perintah shell.
 
 adalah program yang berfungsi sebagai jembatan antara user dan kernel
 
+https://docs.google.com/document/d/187JhDkKLZlcxTyxPPtvYEd3jlVvpjKo6/edit?usp=sharing&ouid=107567856541640053385&rtpof=true&sd=true
