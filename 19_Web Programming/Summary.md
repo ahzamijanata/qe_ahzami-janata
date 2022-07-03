@@ -13,3 +13,5 @@ Seorang back end developer pun harus ahli dalam bahasa pemrograman yang selanjut
 
 ### Web Programming
 Nah jadi pada dasarnya kedua elemen tersebut sangat penting dalam sebuah pembangunan website dimana masing-masing mempunyai tanggung jawab agar sebuah web bisa berjalan dengan baik memiliki tampilahn yang menarik dan mudah digunakan serta tidak meb=mbuat bingung pengguna nantinya.
+
+https://docs.google.com/document/d/1r1JyJ4OT-PFx2kpNfy-10UEtQvJ1w-VYxowDfl_sO4c/edit?usp=sharing
