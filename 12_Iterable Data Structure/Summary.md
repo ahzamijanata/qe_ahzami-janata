@@ -16,3 +16,5 @@ Map adalah jenis array yang indexnya tidak hanya nilai integer 0,1,2 dan seterus
 
 ### Queue
 Dalam perkuliahan Struktur Data (Data Structure) pasti mendapatkan Queue (setelah stack tentunya). Jadi Queue adalah salah satu implementasi dari linked list. Queue menerapkan konsep FIFO (First In First Out) atau FCFS (First Come, First Serve). Berbeda dengan Stack yang menerapkan konsep LIFO (Last In, First Out). Simplenya, yaa seperti jika kita mengantri untuk membeli sesuatu. Begitulah konsep dari Queue.
+
+https://docs.google.com/document/d/15CoKbM1zVTeGT_Sugqy4OvggD7wuYAOx7qRdna6IiB4/edit?usp=sharing
