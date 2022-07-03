@@ -10,3 +10,5 @@ Object-oriented programming atau OOP adalah suatu metode pemrograman yang berori
 2.Abstraction
 3.Inheritance
 4.Polymorphism
+
+https://docs.google.com/document/d/1IUJErourkOt9_eYG_KaeKwX-W96liYylik6IMXEwOcA/edit?usp=sharing
