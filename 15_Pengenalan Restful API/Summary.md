@@ -28,3 +28,12 @@ b) Specification Development
 c) Text Case Development
 d) Execution & Report
 e) Specification Review
+
+# Test Case on Test Rails
+![image](https://user-images.githubusercontent.com/84959625/177052549-7fd47444-8d24-4392-b6e6-4e73317733a0.png)
+![image](https://user-images.githubusercontent.com/81450117/158863406-630eafce-df80-402c-8c97-e42c8fa90428.png)
+# Testing in Postman
+<br>*PET*
+![image](https://user-images.githubusercontent.com/81450117/158864467-7d77228c-4b58-428e-9e45-24107dc16b08.png)
+<br>*Store*
+![image](https://user-images.githubusercontent.com/81450117/158864521-e9caf36b-5418-4cac-8173-b24dc87fed74.png)
