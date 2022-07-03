@@ -36,3 +36,5 @@ e.Operator
 - assignment
 - conditional
 - unary etc.
+
+https://docs.google.com/document/d/1MwNZXtKIgCXiqRlaIedZjFdS4EG0OLkme30OZC2hxQo/edit?usp=sharing
